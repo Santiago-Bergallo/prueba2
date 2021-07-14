@@ -1,0 +1,10 @@
+Debo tener en cuenta que cree el repositorio y no tuve que alojarlo en una carpeta nueva de Digital House. La carpeta "prueba2" se descargo y aparecio como una carpeta nueva dentro de Digital House. 
+Alli cree nuevos archivos.
+A esos archivos les hice el git add .
+Luego el git commit -m "commiteo tres archivos de practica"
+Por ultimo" git push origin main"
+Ahora, con el push pude ver los archivos creados en la termina en git hub.
+Finalmente, en git hub hago estos cambios que tambien deben tener su commit. 
+Luego los descargare en mi repositorio local.
+
+Debo practicar git merge. Todos los demas ya lo han hecho.
