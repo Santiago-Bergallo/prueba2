@@ -1,0 +1,9 @@
+este es un txt creado en mi repositorio local en la branch especifica. la branch la cree dentro de una carpeta de prueba.
+
+la idea es corroborar que la branch es a los efectos de la carpeta de prueba simplemente. Es una bifurcacion de esa carpeta particular.
+
+Asimismo servira para subir la branch. Es decir, que git reconozca que hay una branch creada a partir de un repositorio de mi terminal.
+
+Por ultimo, quiero que tambien reconozca la existencia de este archivo.
+
+Cuando logre esto, quiero mergearlo con la branch main y verificar los cambios y sin que se haya perdido el trabajo en la carpeta ppa.
